@@ -57,9 +57,7 @@ EDA involved exploring the sales data to answer key question, such as:
 
 I had to replace all null values to zero and remove all zero values from all columns because they would have affected the accuracy of my conclusion from the analysis or it might end up giving me an error sign.
 
-### References
 
-1.
 
 
 
